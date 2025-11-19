@@ -1,0 +1,9 @@
+requests
+bs4
+rich
+faker
+pystyle
+fake_email
+fake_useragent
+asyncio
+aiohttp
