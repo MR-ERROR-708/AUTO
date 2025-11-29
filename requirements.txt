@@ -7,3 +7,4 @@ fake_email
 fake_useragent
 asyncio
 aiohttp
+pycryptodome 
